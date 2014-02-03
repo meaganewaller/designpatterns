@@ -32,4 +32,6 @@ Design Patterns implemented in Ruby.
 - [Adapter](https://github.com/meaganewaller/designpatterns/tree/master/adapter)
 - [Proxy](https://github.com/meaganewaller/designpatterns/tree/master/proxy)
 - [Decorator](https://github.com/meaganewaller/designpatterns/tree/master/decorator)
+- [Template
+  Method](https://github.com/meaganewaller/designpatterns/tree/master/template_method)
 
