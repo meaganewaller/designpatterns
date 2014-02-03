@@ -4,7 +4,8 @@ require './british_text_object'
 
 
 # === Modify the BritishTextObject class === #
-# Extend the BritishTextObject to include the methods that the Renderer class requires
+# Extend the BritishTextObject to include the 
+# methods that the Renderer class requires
 
 class BritishTextObjects
   def color
