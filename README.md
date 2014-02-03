@@ -35,3 +35,4 @@ Design Patterns implemented in Ruby.
 - [Template
   Method](https://github.com/meaganewaller/designpatterns/tree/master/template_method)
 - [Strategy](https://github.com/meaganewaller/designpatterns/tree/master/strategy)
+- [Observer](https://github.com/meaganewaller/designpatterns/tree/master/observer)
