@@ -34,4 +34,4 @@ Design Patterns implemented in Ruby.
 - [Decorator](https://github.com/meaganewaller/designpatterns/tree/master/decorator)
 - [Template
   Method](https://github.com/meaganewaller/designpatterns/tree/master/template_method)
-
+- [Strategy](https://github.com/meaganewaller/designpatterns/tree/master/strategy)
